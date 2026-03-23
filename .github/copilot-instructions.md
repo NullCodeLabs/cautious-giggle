@@ -30,10 +30,5 @@ prompts/en/ → English (production/GitHub default)
 ## Multi-LLM Workflow
 - Optimized for ChatHub parallel execution
 - Prompts must work across: Claude, Gemini, ChatGPT, Gemma
-```
 
----
 
-Beilleszted, majd **"Commit changes"** — írj egy commit üzenetet pl.:
-```
-Add Copilot instructions
