@@ -1,3 +1,7 @@
+I'm not a businessman, I'm a business, man. 👊
+Just copy, paste, and so 🫵 are you.
+
+
 # NullCodeLabs — DROPS
 # Hooks, Taglines, CTAs — A/B Test Source
 # Copilot reference | CC BY-NC-SA 4.0 | @NullCodeLabs
