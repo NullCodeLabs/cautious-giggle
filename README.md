@@ -1,10 +1,11 @@
 ## @NullCodeLabs | "It's not the AI that's at fault, it's the logic." 🔑🛠️
 
 <blockquote>
-Use it. Improve it. Share it — on demand. We'll carry your name. 🤝<br>
-I'm not a businessman, I'm a business, man. 👊<br>
+Use it. Improve it. Share it. We'll carry your name. 🤝<br>
+I'm not a businessman! I'm a business! Man... 👊<br>
 Just copy, paste, and so 🫵 are you.<br>
-Free is not a price. It's 🛟 a promise.
+🤝 Free is not a price. It's a promise. ✍️<br>
+🛟 Need something 🔧 custom or ⚡special ⁉️ 🦺 4u <a href="https://github.com/NullCodeLabs/NullCodeLabs/issues">Request it.</a>
 </blockquote>
 
 ---
