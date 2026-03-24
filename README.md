@@ -3,8 +3,13 @@
 > Just copy, paste, and so 🫵 are you.
 > Free is not a price. It's 🛟 a promise.
 
-# NullCodeLabs
-### @NullCodeLabs | "It's not the AI that's at fault, it's the logic." 🔑🛠️
+> Use it. Improve it. Share it — on demand. We'll carry your name. 🤝
+> I'm not a businessman, I'm a business, man. 👊
+> Just copy, paste, and so 🫵 are you.
+> Free is not a price. It's 🛟 a promise.
+
+## @NullCodeLabs | "It's not the AI that's at fault, it's the logic." 🔑🛠️
+
 
 ---
 
