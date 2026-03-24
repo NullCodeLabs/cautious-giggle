@@ -1,19 +1,15 @@
-> Use it. Improve it. Share it — on demand. We'll carry your name. 🤝
-> I'm not a businessman, I'm a business, man. 👊
-> Just copy, paste, and so 🫵 are you.
-> Free is not a price. It's 🛟 a promise.
+<blockquote align="right">"It's not the AI that's at fault, it's the logic." 🔑🛠️</blockquote>
 
 > Use it. Improve it. Share it — on demand. We'll carry your name. 🤝
 > I'm not a businessman, I'm a business, man. 👊
 > Just copy, paste, and so 🫵 are you.
 > Free is not a price. It's 🛟 a promise.
 
-## @NullCodeLabs | "It's not the AI that's at fault, it's the logic." 🔑🛠️
-
+## @NullCodeLabs
 
 ---
 
-## The problem
+### 🔥 The problem
 
 You're paying $50–200/month for tools that do one thing.
 The AI already knows how. You just need the right prompt.
@@ -21,7 +17,7 @@ No app. No subscription. No bullshit.
 
 ---
 
-## The solution
+### 💡 The solution
 
 A free, open prompt library for humans who think.
 Built for freelancers, solo founders, micro & SMB teams.
@@ -29,7 +25,7 @@ Replacing expensive software with clean logic — one prompt at a time.
 
 ---
 
-## What's inside
+### 📦 What's inside
 
 - 🔍 Research & OSINT — background checks, due diligence, public data analysis
 - 💼 Business & Legal — contracts, audits, company analysis
@@ -39,7 +35,7 @@ Replacing expensive software with clean logic — one prompt at a time.
 
 ---
 
-## How to use
+### ⚡ How to use
 
 1. Pick a prompt from `/prompts/hu/` or `/prompts/en/`
 2. Fill in the `[VARIABLES]`
@@ -48,7 +44,7 @@ Replacing expensive software with clean logic — one prompt at a time.
 
 ---
 
-## Like what you see?
+### 👀 Like what you see?
 
 ⭐ Star the repo — it's free and it helps.
 🔁 Share it — someone you know is still paying for this.
@@ -59,7 +55,7 @@ Replacing expensive software with clean logic — one prompt at a time.
 
 ---
 
-## License & Rules
+### ⚖️ License & Rules
 
 CC BY-NC-SA 4.0 — Free to use. Not for resale.
 Credit: @NullCodeLabs | github.com/NullCodeLabs
